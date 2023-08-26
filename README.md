@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=723D9C&width=435&lines=Ol%C3%A1!+Me+chamo+Allonso+Henzo+%F0%9F%A4%99;Tenho+19+anos+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1!+Me+chamo+Allonso+Henzo;Entre+em+contato+comigo%3A)](https://git.io/typing-svg)
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allonso-henzo-morais-tavares-29a245192/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/henzoallonso/)
