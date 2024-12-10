@@ -21,4 +21,4 @@
     <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div><br>
 
-Cursando Ciência da Computação e fazendo diversos cursos para me tornar um grande desenvolvedor FullStack. Sou freelancer em desenvolvimento front-end e estou buscando meu primeiro estágio para começar a trilhar a minha carreira!
+Cursando Ciência da Computação. Atualmente trabalho como Auxiliar de TI e Desenvolvedor Fullstack na empresa ACTEC - Acesso, Controle e Teclonogia.
