@@ -21,4 +21,4 @@
     <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div><br>
 
-Cursando Ciência da Computação. Atualmente trabalho como Freelancer e Desenvolvedor Fullstack na empresa ACTEC - Acesso, Controle e Teclonogia.
+Cursando Ciência da Computação. Atualmente trabalho como Web Dev Freelancer e Desenvolvedor Fullstack na empresa ACTEC - Acesso, Controle e Teclonogia.
